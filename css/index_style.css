@@ -14,7 +14,7 @@
     left: 0;
     z-index: -1000;
 }
-.navbar
+.homePage .navbar
 {
     z-index: 6546846;
 }
@@ -60,4 +60,19 @@
     width: 100%;
     background-color: gray;
     padding:10px 0px;
+}
+.sideBar
+{
+    height: 500px;
+    background-color: gainsboro;
+}
+.page1-contents
+{
+    border-top: 1px solid rgba(0,0,0,0.3);1
+}
+.support
+{
+    width: 100%;
+    background-color: gainsboro;
+    margin: 50px 0px;
 }
